@@ -1,6 +1,6 @@
 public class Grade implements Comparable<Grade>{
 
-    private Integer grade;
+    private Integer grade;//EJ
     private Exam exam;
     private Student student;
 

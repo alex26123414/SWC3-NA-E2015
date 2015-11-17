@@ -6,7 +6,7 @@ public class Exam {
 
     private String name;
     private GregorianCalendar date;
-
+    
     public Exam(String name, GregorianCalendar date) {
         this.name = name;
         this.date = date;
