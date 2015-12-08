@@ -12,3 +12,6 @@ public static void main(String args[]){
 |nr.|name|
 |---|----|
 |1  | Alice|
+
+
+<h1 style="color:red">Bob is dead</h1>
