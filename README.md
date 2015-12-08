@@ -14,4 +14,4 @@ public static void main(String args[]){
 |1  | Alice|
 
 
-<h1 style="color:red">Bob is dead</h1>
+<h1 style="color:red; padding:25px;">Bob is dead</h1>
